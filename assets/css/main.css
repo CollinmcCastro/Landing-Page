@@ -2831,7 +2831,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #6fc3df00;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
@@ -2843,7 +2843,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #ffffff00;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
@@ -2909,6 +2909,7 @@ input, select, textarea {
 		position: relative;
 	}
 
+
 		.contact-method .icon {
 			left: 0;
 			position: absolute;
@@ -2918,6 +2919,8 @@ input, select, textarea {
 		.contact-method h3 {
 			margin: 0 0 0.5em 0;
 		}
+
+		
 
 /* Spotlights */
 
