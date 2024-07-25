@@ -2924,7 +2924,21 @@ input, select, textarea {
 			margin: 0 0 0.5em 0;
 		}
 
+/* Socials */		
+	.header {
+		display: flex;
+		align-items: center;
+	}
 		
+	.header .fa-user {
+		font-size: 24px; /* Adjust size as needed */
+		margin-right: 8px; /* Space between icon and text */
+	}
+		
+	.header h3 {
+		margin: 0;
+		font-size: 1.5em; /* Adjust size as needed */
+	}	
 
 /* Spotlights */
 
